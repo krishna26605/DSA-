@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishna26605/DSA-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/krishna26605/DSA-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/krishna26605/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishna26605/DSA-/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -34,6 +36,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishna26605/DSA-/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
