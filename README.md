@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishna26605/DSA-/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
