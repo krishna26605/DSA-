@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krishna26605/DSA-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna26605/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/krishna26605/DSA-/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/krishna26605/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/krishna26605/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishna26605/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishna26605/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/krishna26605/DSA-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
