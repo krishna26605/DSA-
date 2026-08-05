@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishna26605/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/krishna26605/DSA-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krishna26605/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishna26605/DSA-/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
