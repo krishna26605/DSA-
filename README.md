@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishna26605/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/krishna26605/DSA-/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/krishna26605/DSA-/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/krishna26605/DSA-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krishna26605/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishna26605/DSA-/tree/master/0503-next-greater-element-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krishna26605/DSA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/krishna26605/DSA-/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
