@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishna26605/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/krishna26605/DSA-/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krishna26605/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna26605/DSA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna26605/DSA-/tree/master/0053-maximum-subarray) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishna26605/DSA-/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krishna26605/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna26605/DSA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
