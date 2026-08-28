@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishna26605/DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/krishna26605/DSA-/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/krishna26605/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/krishna26605/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/krishna26605/DSA-/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/krishna26605/DSA-/tree/master/0904-fruit-into-baskets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krishna26605/DSA-/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/krishna26605/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/krishna26605/DSA-/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/krishna26605/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/krishna26605/DSA-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/krishna26605/DSA-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/krishna26605/DSA-/tree/master/0930-binary-subarrays-with-sum) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/krishna26605/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/krishna26605/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krishna26605/DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
