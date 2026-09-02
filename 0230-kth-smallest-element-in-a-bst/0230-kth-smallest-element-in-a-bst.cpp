@@ -11,28 +11,43 @@
  */
 class Solution {
 public:
-    int k;
-    int result;
-
     int kthSmallest(TreeNode* root, int k) {
-        this->k=k;
-        this->result=-1;
+        TreeNode*curr=root;
+        int ans=-1;
 
-        inorder(root);
+        while(curr){
+            if(curr->left==nullptr){
+                k--;
+                if(k==0){
+                    ans= curr->val;
+                }
 
-        return result;
-    }
+                curr=curr->right;
+            }
+            else{
+                TreeNode*pred = curr->left;
 
-    void inorder(TreeNode*root){
-        if(root==nullptr) return;
+                while(pred->right && pred->right!=curr){
+                    pred=pred->right;
+                }
 
-        inorder(root->left);
-        k--;
-        if(k==0){
-            result=root->val;
-            return;
+                if(pred->right==nullptr){
+                    pred->right=curr;
+                    curr=curr->left;
+                }
+                else{
+                    pred->right=nullptr;
+                    k--;
+
+                    if(k==0){
+                        ans= curr->val;
+                    }
+
+                    curr=curr->right;
+                }
+            }
         }
 
-        inorder(root->right);
+        return ans;
     }
 };
