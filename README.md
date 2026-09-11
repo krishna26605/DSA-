@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishna26605/DSA-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/krishna26605/DSA-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/krishna26605/DSA-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna26605/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna26605/DSA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishna26605/DSA-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/krishna26605/DSA-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna26605/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna26605/DSA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krishna26605/DSA-/tree/master/0042-trapping-rain-water) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krishna26605/DSA-/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krishna26605/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krishna26605/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
